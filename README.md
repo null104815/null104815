@@ -1,5 +1,9 @@
 <h2>Hello! My name is n̵̡̩̲̰͔̺̓̐̊͌̔.ú̴̩́̌̾!̵͍̹̠̗̓͆̉͜͠/̶̩̙̃͌f̷̞̔̓̏(̶̨̪̪̞͎̱́́̾̽)̸̧̼̥̏̌̕.r̵͙̭͛̒r̸̨̳̯̍ͅn̶̺̈́͑͝<h2>
+<h3>I am currently a freelance full stack developer and designer based in Nagoya. When I'm not doing X, I'm most likely doing Y — which is ultimately correlated no matter how you plot it.</h3>
 
+-
+-
+-
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
