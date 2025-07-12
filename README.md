@@ -22,11 +22,11 @@
   
   ###
 
-  <a href="https://www.linkedin.com/in/anthony-reninger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&&style=for-the-badge"></a>
-
-  ###
-  
-  <img src="https://www.codewars.com/users/user105983259165/badges/large" />
-
-  ###
+  <br />
+  <h3 align="left">Social Media:</h3>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/anthony-reninger/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&&style=for-the-badge" height="400" width="130"></a>
+  <!-- CodeWars -->
+  <img src="https://www.codewars.com/users/user105983259165/badges/large"/>
+  <!-- Website...? -->
 </div>
